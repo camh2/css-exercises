@@ -1,6 +1,6 @@
 .number-1,
-.number-2,
-.number-3 {
+.number-3,
+.number-5 {
     background-color: pink;
 }
 
@@ -9,9 +9,16 @@
 }
 
 .number-2 {
-    font-style: DejaVu Sans;
+    color: blue;
+    font-size: 36px;
 }
 
 .number-3 {
-    font-style: sans-serif;
+    font-size: 24px;
+}
+
+.number-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
