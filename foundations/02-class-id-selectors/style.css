@@ -1,0 +1,17 @@
+.number-1,
+.number-2,
+.number-3 {
+    background-color: pink;
+}
+
+.number-1 {
+    font-style: verdana;
+}
+
+.number-2 {
+    font-style: DejaVu Sans;
+}
+
+.number-3 {
+    font-style: sans-serif;
+}
